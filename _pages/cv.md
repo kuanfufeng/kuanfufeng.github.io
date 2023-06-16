@@ -9,25 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](https://kuanfufeng.github.io/files/cv.pdf)
+
+Research Interest
+------
+Environmental seismology | Volcano seismology
+
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+------
+* Ph.D in Geosciences, National Taiwan University, Taiwan, 2022
+* M.S. in Geosciences, National Taiwan University, Taiwan, 2016
+* B.S. in Earth and Environment Sciences, National Chung Cheng University, Taiwan, 2014
+
 
 Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+------
+* Summer 2023 - present: Postdoctoral scholar
+  * Earth and Space Sciences, University of Washington, US
+  * Supervisor: Professor [Marine Denolle](https://ess.uw.edu/people/marine-denolle/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* Summer 2022 - Summer 2023: Postdoctoral scholar
+  * Geology and Geophysics, University of Utah, US
+  * Supervisor: Professor [Fan-Chi Lin](https://faculty.utah.edu/u0919412-FAN-CHI_LIN/research/index.hml)
+
+* Fall 2016 - Summer 2017: Research Assistant
+  * Institute of Earth Sciences, Academia Sinica, Taiwan
+  * Duties included: [Real-time Moment Tensor Monitoring System](https://rmt.earth.sinica.edu.tw)
+  * Supervisor: Associate Research Fellow [Shiann-Jong Lee](https://www.earth.sinica.edu.tw/en/member/detail/30)
+
+
+* Spring 2014: Research Assistant
+  * National Chung Cheng University, Taiwan
+  * Duties included: Seimic phase picking
+  * Supervisor: Professor Gwo-Bin Ou
+
+
+
+<!--Skills
 ======
 * Skill 1
 * Skill 2
@@ -57,3 +75,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
