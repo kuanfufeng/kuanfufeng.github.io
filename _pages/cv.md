@@ -32,47 +32,16 @@ Work experience
   * Geology and Geophysics, University of Utah, US
   * Supervisor: Professor [Fan-Chi Lin](https://faculty.utah.edu/u0919412-FAN-CHI_LIN/research/index.hml)
 
+* Spring 2022: Postdoctoral scholar
+  * Institute of Earth Sciences, Academia Sinica, Taiwan
+  * Supervisor: Associate Research Fellow [Hsin-Hua Huang](https://www.earth.sinica.edu.tw/en/member/detail/43)
+ 
 * Fall 2016 - Summer 2017: Research Assistant
   * Institute of Earth Sciences, Academia Sinica, Taiwan
-  * Duties included: [Real-time Moment Tensor Monitoring System](https://rmt.earth.sinica.edu.tw)
-  * Supervisor: Associate Research Fellow [Shiann-Jong Lee](https://www.earth.sinica.edu.tw/en/member/detail/30)
-
+  * Duties included: Event checking and offline testing for [Real-time Moment Tensor Monitoring System](https://rmt.earth.sinica.edu.tw)
+  * Supervisor: Research Fellow [Shiann-Jong Lee](https://www.earth.sinica.edu.tw/en/member/detail/30)
 
 * Spring 2014: Research Assistant
   * National Chung Cheng University, Taiwan
   * Duties included: Seimic phase picking
   * Supervisor: Professor Gwo-Bin Ou
-
-
-
-<!--Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
-
